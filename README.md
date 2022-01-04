@@ -1,4 +1,5 @@
 # Connect4
+The game files are present in Master branch
 This is a LOVE2D game designed for the Gaming Frontier Challenge (Game Development Track) in Shaastra 2022 hosted by IIT Madras.
 
 Here is our game: Connect 4!
